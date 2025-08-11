@@ -30,3 +30,7 @@ This project is a multi-agent browser automation tool using CrewAI and Stagehand
 
 To run the application, start the Streamlit app with the following command:
 `streamlit run .\src\agent.py`
+example:
+<img width="1015" height="550" alt="image" src="https://github.com/user-attachments/assets/bb278672-afbf-4ec9-96e8-5cc48e52cfd1" />
+
+<img width="871" height="363" alt="image" src="https://github.com/user-attachments/assets/29884311-69ad-4a6d-9613-7a82ff268735" />
